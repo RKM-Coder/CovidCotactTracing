@@ -1,0 +1,1059 @@
+
+[
+    {
+        "district_code": "1501",
+        "block_code": "1501001",
+        "block_name_kannada": "ಬಾದಾಮಿ",
+        "block_name": "BADAMI"
+    },
+    {
+        "district_code": "1501",
+        "block_code": "1501002",
+        "block_name_kannada": "ಬಾಗಲಕೋಟೆ",
+        "block_name": "BAGALKOT"
+    },
+    {
+        "district_code": "1501",
+        "block_code": "1501003",
+        "block_name_kannada": "ಬೀಳಗಿ",
+        "block_name": "BILAGI"
+    },
+    {
+        "district_code": "1501",
+        "block_code": "1501004",
+        "block_name_kannada": "ಹುನಗುಂದ",
+        "block_name": "HUNGUND"
+    },
+    {
+        "district_code": "1501",
+        "block_code": "1501005",
+        "block_name_kannada": "ಜಮಖಂಡಿ",
+        "block_name": "JAMKHANDI"
+    },
+    {
+        "district_code": "1501",
+        "block_code": "1501006",
+        "block_name_kannada": "ಮುಧೋಳ",
+        "block_name": "MUDHOL"
+    },
+    {
+        "district_code": "1502",
+        "block_code": "1502001",
+        "block_name_kannada": "ಆನೇಕಲ್",
+        "block_name": "ANEKAL"
+    },
+    {
+        "district_code": "1502",
+        "block_code": "1502002",
+        "block_name_kannada": "ಬೆಂಗಳೂರು ಉತ್ತರ",
+        "block_name": "BENGALURU NORTH"
+    },
+    {
+        "district_code": "1502",
+        "block_code": "1502003",
+        "block_name_kannada": "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ",
+        "block_name": "BENGALURU SOUTH"
+    },
+    {
+        "district_code": "1502",
+        "block_code": "1502004",
+        "block_name_kannada": "ಬೆಂಗಳೂರು ಪೂರ್ವ",
+        "block_name": "BENGALURU EAST"
+    },
+    {
+        "district_code": "1503",
+        "block_code": "1503002",
+        "block_name_kannada": "ದೇವನಹಳ್ಳಿ",
+        "block_name": "DEVANHALLI"
+    },
+    {
+        "district_code": "1503",
+        "block_code": "1503003",
+        "block_name_kannada": "ದೊಡ್ಡಬಳ್ಳಾಪುರ",
+        "block_name": "DODBALLAPUR"
+    },
+    {
+        "district_code": "1503",
+        "block_code": "1503004",
+        "block_name_kannada": "ಹೊಸಕೋಟೆ",
+        "block_name": "HOSKOTE"
+    },
+    {
+        "district_code": "1503",
+        "block_code": "1503007",
+        "block_name_kannada": "ನೆಲಮಂಗಲ",
+        "block_name": "NELAMANGALA"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504001",
+        "block_name_kannada": "ಅಥಣಿ",
+        "block_name": "ATHNI"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504002",
+        "block_name_kannada": "ಬೈಲಹೊಂಗಲ",
+        "block_name": "BAILAHONGAL"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504003",
+        "block_name_kannada": "ಬೆಳಗಾವಿ",
+        "block_name": "BELAGAVI"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504004",
+        "block_name_kannada": "ಚಿಕ್ಕೋಡಿ",
+        "block_name": "CHIKKODI"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504005",
+        "block_name_kannada": "ಗೋಕಾಕ",
+        "block_name": "GOKAK"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504006",
+        "block_name_kannada": "ಹುಕ್ಕೇರಿ",
+        "block_name": "HUKKERI"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504007",
+        "block_name_kannada": "ಖಾನಾಪುರ",
+        "block_name": "KHANAPUR"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504008",
+        "block_name_kannada": "ರಾಯಬಾಗ",
+        "block_name": "RAYBAG"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504009",
+        "block_name_kannada": "ರಾಮದುರ್ಗ",
+        "block_name": "RAMDURG"
+    },
+    {
+        "district_code": "1504",
+        "block_code": "1504010",
+        "block_name_kannada": "ಸವದತ್ತಿ",
+        "block_name": "SAVADATTI"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505001",
+        "block_name_kannada": "ಬಳ್ಳಾರಿ",
+        "block_name": "BALLARI"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505002",
+        "block_name_kannada": "ಹಡಗಲಿ",
+        "block_name": "HADAGALI"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505003",
+        "block_name_kannada": "ಹಗರಿಬೊಮ್ಮನಹಳ್ಳಿ",
+        "block_name": "HAGARIBOMMANAHALLI"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505004",
+        "block_name_kannada": "ಹೊಸಪೇಟೆ",
+        "block_name": "HOSAPETE"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505005",
+        "block_name_kannada": "ಕೂಡ್ಲಿಗಿ",
+        "block_name": "KUDLIGI"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505006",
+        "block_name_kannada": "ಸಂಡೂರು",
+        "block_name": "SANDUR"
+    },
+    {
+        "district_code": "1505",
+        "block_code": "1505007",
+        "block_name_kannada": "ಸಿರುಗುಪ್ಪಾ",
+        "block_name": "SIRUGUPPA"
+    },
+    {
+        "district_code": "1506",
+        "block_code": "1506001",
+        "block_name_kannada": "ಔರಾದ",
+        "block_name": "AURAD"
+    },
+    {
+        "district_code": "1506",
+        "block_code": "1506002",
+        "block_name_kannada": "ಬಸವಕಲ್ಯಾಣ",
+        "block_name": "BASAVAKALYAN"
+    },
+    {
+        "district_code": "1506",
+        "block_code": "1506003",
+        "block_name_kannada": "ಭಾಲ್ಕಿ",
+        "block_name": "BHALKI"
+    },
+    {
+        "district_code": "1506",
+        "block_code": "1506004",
+        "block_name_kannada": "ಬೀದರ",
+        "block_name": "BIDAR"
+    },
+    {
+        "district_code": "1506",
+        "block_code": "1506005",
+        "block_name_kannada": "ಹುಮನಾಬಾದ",
+        "block_name": "HUMNABAD"
+    },
+    {
+        "district_code": "1507",
+        "block_code": "1507001",
+        "block_name_kannada": "ಬಸವನ ಬಾಗೇವಾಡಿ",
+        "block_name": "BASAVANA BAGEVADI"
+    },
+    {
+        "district_code": "1507",
+        "block_code": "1507002",
+        "block_name_kannada": "ವಿಜಯಾಪುರ",
+        "block_name": "VIJAYAPURA"
+    },
+    {
+        "district_code": "1507",
+        "block_code": "1507003",
+        "block_name_kannada": "ಇಂಡಿ",
+        "block_name": "INDI"
+    },
+    {
+        "district_code": "1507",
+        "block_code": "1507004",
+        "block_name_kannada": "ಮುದ್ದೇಬಿಹಾಳ",
+        "block_name": "MUDDEBIHAL"
+    },
+    {
+        "district_code": "1507",
+        "block_code": "1507005",
+        "block_name_kannada": "ಸಿಂದಗಿ",
+        "block_name": "SINDGI"
+    },
+    {
+        "district_code": "1508",
+        "block_code": "1508001",
+        "block_name_kannada": "ಚಾಮರಾಜ ನಗರ",
+        "block_name": "CHAMARAJANAGAR"
+    },
+    {
+        "district_code": "1508",
+        "block_code": "1508002",
+        "block_name_kannada": "ಗುಂಡ್ಲುಪೇಟೆ",
+        "block_name": "GUNDLUPET"
+    },
+    {
+        "district_code": "1508",
+        "block_code": "1508003",
+        "block_name_kannada": "ಕೊಳ್ಳೇಗಾಲ",
+        "block_name": "KOLLEGALA"
+    },
+    {
+        "district_code": "1508",
+        "block_code": "1508004",
+        "block_name_kannada": "ಯಳಂದೂರು",
+        "block_name": "YELANDUR"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509001",
+        "block_name_kannada": "ಚಿಕ್ಕಮಗಳೂರು",
+        "block_name": "CHIKKAMAGALURU"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509002",
+        "block_name_kannada": "ಕಡೂರ",
+        "block_name": "KADUR"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509003",
+        "block_name_kannada": "ಕೊಪ್ಪ",
+        "block_name": "KOPPA"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509004",
+        "block_name_kannada": "ಮೂಡಿಗೇರೆ",
+        "block_name": "MUDIGERE"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509005",
+        "block_name_kannada": "ನರಸಿಂಹರಾಜಪುರ",
+        "block_name": "NARASIMHARAJAPURA"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509006",
+        "block_name_kannada": "ಶೃಂಗೇರಿ",
+        "block_name": "SRINGERI"
+    },
+    {
+        "district_code": "1509",
+        "block_code": "1509007",
+        "block_name_kannada": "ತರಿಕೆರೆ",
+        "block_name": "TARIKERE"
+    },
+    {
+        "district_code": "1510",
+        "block_code": "1510001",
+        "block_name_kannada": "ಚಳ್ಳಕೆರೆ",
+        "block_name": "CHALLAKERE"
+    },
+    {
+        "district_code": "1510",
+        "block_code": "1510002",
+        "block_name_kannada": "ಚಿತ್ರದುರ್ಗ",
+        "block_name": "CHITRADURGA"
+    },
+    {
+        "district_code": "1510",
+        "block_code": "1510003",
+        "block_name_kannada": "ಹಿರಿಯೂರು",
+        "block_name": "HIRIYUR"
+    },
+    {
+        "district_code": "1510",
+        "block_code": "1510004",
+        "block_name_kannada": "ಹೊಳಲ್ಕೆರೆ",
+        "block_name": "HOLALKERE"
+    },
+    {
+        "district_code": "1510",
+        "block_code": "1510005",
+        "block_name_kannada": "ಹೊಸದುರ್ಗ",
+        "block_name": "HOSDURGA"
+    },
+    {
+        "district_code": "1510",
+        "block_code": "1510006",
+        "block_name_kannada": "ಮೊಳಕಾಲ್ಮೂರು",
+        "block_name": "MOLAKALMURU"
+    },
+    {
+        "district_code": "1511",
+        "block_code": "1511001",
+        "block_name_kannada": "ಬೆಳ್ತಂಗಡಿ",
+        "block_name": "BELTANGADI"
+    },
+    {
+        "district_code": "1511",
+        "block_code": "1511002",
+        "block_name_kannada": "ಬಂಟ್ವಾಳ",
+        "block_name": "BANTVAL"
+    },
+    {
+        "district_code": "1511",
+        "block_code": "1511003",
+        "block_name_kannada": "ಮಂಗಳೂರು",
+        "block_name": "MANGALURU"
+    },
+    {
+        "district_code": "1511",
+        "block_code": "1511004",
+        "block_name_kannada": "ಪುತ್ತೂರು",
+        "block_name": "PUTTUR"
+    },
+    {
+        "district_code": "1511",
+        "block_code": "1511005",
+        "block_name_kannada": "ಸುಳ್ಯ",
+        "block_name": "SULYA"
+    },
+    {
+        "district_code": "1512",
+        "block_code": "1512001",
+        "block_name_kannada": "ಚನ್ನಗಿರಿ",
+        "block_name": "CHANNAGIRI"
+    },
+    {
+        "district_code": "1512",
+        "block_code": "1512002",
+        "block_name_kannada": "ದಾವಣಗೆರೆ",
+        "block_name": "DAVANAGERE"
+    },
+    {
+        "district_code": "1512",
+        "block_code": "1512003",
+        "block_name_kannada": "ಹರಿಹರ",
+        "block_name": "HARIHARA"
+    },
+    {
+        "district_code": "1512",
+        "block_code": "1512004",
+        "block_name_kannada": "ಹರಪನಹಳ್ಳಿ",
+        "block_name": "HARAPANAHALLI"
+    },
+    {
+        "district_code": "1512",
+        "block_code": "1512005",
+        "block_name_kannada": "ಹೊನ್ನಾಳಿ",
+        "block_name": "HONNALI"
+    },
+    {
+        "district_code": "1512",
+        "block_code": "1512006",
+        "block_name_kannada": "ಜಗಳೂರು",
+        "block_name": "JAGALUR"
+    },
+    {
+        "district_code": "1513",
+        "block_code": "1513001",
+        "block_name_kannada": "ಧಾರವಾಡ",
+        "block_name": "DHARWAD"
+    },
+    {
+        "district_code": "1513",
+        "block_code": "1513002",
+        "block_name_kannada": "ಹುಬ್ಬಳ್ಳಿ",
+        "block_name": "HUBBALLI"
+    },
+    {
+        "district_code": "1513",
+        "block_code": "1513003",
+        "block_name_kannada": "ಕಲಘಟಗಿ",
+        "block_name": "KALGHATGI"
+    },
+    {
+        "district_code": "1513",
+        "block_code": "1513004",
+        "block_name_kannada": "ಕುಂದಗೋಳ",
+        "block_name": "KUNDGOL"
+    },
+    {
+        "district_code": "1513",
+        "block_code": "1513005",
+        "block_name_kannada": "ನವಲಗುಂದ",
+        "block_name": "NAVALGUND"
+    },
+    {
+        "district_code": "1514",
+        "block_code": "1514001",
+        "block_name_kannada": "ಗದಗ",
+        "block_name": "GADAG"
+    },
+    {
+        "district_code": "1514",
+        "block_code": "1514002",
+        "block_name_kannada": "ಮುಂಡರಗಿ",
+        "block_name": "MUNDARAGI"
+    },
+    {
+        "district_code": "1514",
+        "block_code": "1514003",
+        "block_name_kannada": "ನರಗುಂದ",
+        "block_name": "NARAGUND"
+    },
+    {
+        "district_code": "1514",
+        "block_code": "1514004",
+        "block_name_kannada": "ರೋಣ",
+        "block_name": "RON"
+    },
+    {
+        "district_code": "1514",
+        "block_code": "1514005",
+        "block_name_kannada": "ಶಿರಹಟ್ಟಿ",
+        "block_name": "SHIRAHATTI"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515001",
+        "block_name_kannada": "ಅಫ್ಜಲ್",
+        "block_name": "AFZALPUR"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515002",
+        "block_name_kannada": "ಆಳಂದ್",
+        "block_name": "ALAND"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515003",
+        "block_name_kannada": "ಚಿಂಚೋಳಿ",
+        "block_name": "CHINCHOLI"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515004",
+        "block_name_kannada": "ಚಿತ್ತಾಪುರ",
+        "block_name": "CHITTAPUR"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515005",
+        "block_name_kannada": "ಕಲಬುರಗಿ",
+        "block_name": "KALABURAGI"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515006",
+        "block_name_kannada": "ಜೇವರ್ಗಿ",
+        "block_name": "JEVARGI"
+    },
+    {
+        "district_code": "1515",
+        "block_code": "1515007",
+        "block_name_kannada": "ಸೇಡಂ",
+        "block_name": "SEDAM"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516001",
+        "block_name_kannada": "ಆಲೂರು",
+        "block_name": "ALUR"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516002",
+        "block_name_kannada": "ಅರಸೀಕೆರೆ",
+        "block_name": "ARSIKERE"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516003",
+        "block_name_kannada": "ಅರಕಲಗೂಡು",
+        "block_name": "ARKALGUD"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516004",
+        "block_name_kannada": "ಬೇಲೂರು",
+        "block_name": "BELUR"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516005",
+        "block_name_kannada": "ಚನ್ನರಾಯಪಟ್ಟಣ",
+        "block_name": "CHANNARAYAPATNA"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516006",
+        "block_name_kannada": "ಹಾಸನ",
+        "block_name": "HASSAN"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516007",
+        "block_name_kannada": "ಹೊಳೆನರಸೀಪುರ",
+        "block_name": "HOLENARSIPUR"
+    },
+    {
+        "district_code": "1516",
+        "block_code": "1516008",
+        "block_name_kannada": "ಸಕಲೇಶಪುರ",
+        "block_name": "SAKALESHPUR"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517001",
+        "block_name_kannada": "ಬ್ಯಾಡಗಿ",
+        "block_name": "BYADGI"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517002",
+        "block_name_kannada": "ಹಾನಗಲ್",
+        "block_name": "HANAGAL"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517003",
+        "block_name_kannada": "ಹಾವೇರಿ",
+        "block_name": "HAVERI"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517004",
+        "block_name_kannada": "ಹಿರೇಕೆರೂರು",
+        "block_name": "HIREKERUR"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517005",
+        "block_name_kannada": "ರಾಣೆಬೆನ್ನೂರು",
+        "block_name": "RANEBENNUR"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517006",
+        "block_name_kannada": "ಸವಣೂರು",
+        "block_name": "SAVANUR"
+    },
+    {
+        "district_code": "1517",
+        "block_code": "1517007",
+        "block_name_kannada": "ಶಿಗ್ಗಾಂವ",
+        "block_name": "SHIGGAON"
+    },
+    {
+        "district_code": "1518",
+        "block_code": "1518001",
+        "block_name_kannada": "ಮಡಿಕೇರಿ",
+        "block_name": "MADIKERI"
+    },
+    {
+        "district_code": "1518",
+        "block_code": "1518002",
+        "block_name_kannada": "ಸೋಮವಾರಪೇಟೆ",
+        "block_name": "SOMVARPET"
+    },
+    {
+        "district_code": "1518",
+        "block_code": "1518003",
+        "block_name_kannada": "ವಿರಾಜಪೇಟೆ",
+        "block_name": "VIRAJPET"
+    },
+    {
+        "district_code": "1519",
+        "block_code": "1519002",
+        "block_name_kannada": "ಬಂಗಾರಪೇಟೆ",
+        "block_name": "BANGARPET"
+    },
+    {
+        "district_code": "1519",
+        "block_code": "1519007",
+        "block_name_kannada": "ಕೋಲಾರ",
+        "block_name": "KOLAR"
+    },
+    {
+        "district_code": "1519",
+        "block_code": "1519008",
+        "block_name_kannada": "ಮಾಲೂರು",
+        "block_name": "MALUR"
+    },
+    {
+        "district_code": "1519",
+        "block_code": "1519009",
+        "block_name_kannada": "ಮುಳಬಾಗಿಲು",
+        "block_name": "MULBAGAL"
+    },
+    {
+        "district_code": "1519",
+        "block_code": "1519011",
+        "block_name_kannada": "ಶ್ರೀನಿವಾಸಪುರ",
+        "block_name": "SRINIVASPUR"
+    },
+    {
+        "district_code": "1520",
+        "block_code": "1520001",
+        "block_name_kannada": "ಗಂಗಾವತಿ",
+        "block_name": "GANGAVATI"
+    },
+    {
+        "district_code": "1520",
+        "block_code": "1520002",
+        "block_name_kannada": "ಕೊಪ್ಪಳ",
+        "block_name": "KOPPAL"
+    },
+    {
+        "district_code": "1520",
+        "block_code": "1520003",
+        "block_name_kannada": "ಕುಷ್ಟಗಿ",
+        "block_name": "KUSHTAGI"
+    },
+    {
+        "district_code": "1520",
+        "block_code": "1520004",
+        "block_name_kannada": "ಯಲ್ಬುರ್ಗ",
+        "block_name": "YELBURGA"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521001",
+        "block_name_kannada": "ಕೃಷ್ಣರಾಜಪೇಟೆ",
+        "block_name": "KRISHNARAJPET"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521002",
+        "block_name_kannada": "ಮದ್ದೂರು",
+        "block_name": "MADDUR"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521003",
+        "block_name_kannada": "ಮಳವಳ್ಳಿ",
+        "block_name": "MALVALLI"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521004",
+        "block_name_kannada": "ಮಂಡ್ಯ",
+        "block_name": "MANDYA"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521005",
+        "block_name_kannada": "ನಾಗಮಂಗಲ",
+        "block_name": "NAGAMANGALA"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521006",
+        "block_name_kannada": "ಪಾಂಡವಪುರ",
+        "block_name": "PANDAVAPURA"
+    },
+    {
+        "district_code": "1521",
+        "block_code": "1521007",
+        "block_name_kannada": "ಶ್ರೀರಂಗಪಟ್ಟಣ",
+        "block_name": "SHRIRANGAPATTANA"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522001",
+        "block_name_kannada": "ಹೆಗ್ಗಡದೇವನಕೋಟೆ",
+        "block_name": "HEGGADADEVANKOTE"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522002",
+        "block_name_kannada": "ಹುಣಸೂರು",
+        "block_name": "HUNSUR"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522003",
+        "block_name_kannada": "ಕೃಷ್ಣರಾಜನಗರ",
+        "block_name": "KRISHNARAJANAGARA"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522004",
+        "block_name_kannada": "ಮೈಸೂರು",
+        "block_name": "MYSURU"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522005",
+        "block_name_kannada": "ನಂಜನಗೂಡು",
+        "block_name": "NANJANGUD"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522006",
+        "block_name_kannada": "ಪಿರಿಯಾಪಟ್ಟಣ",
+        "block_name": "PIRIYAPATNA"
+    },
+    {
+        "district_code": "1522",
+        "block_code": "1522007",
+        "block_name_kannada": "ಟಿ.ನರಸೀಪುರ",
+        "block_name": "TIRUMAKUDALA-NARSIPUR"
+    },
+    {
+        "district_code": "1523",
+        "block_code": "1523001",
+        "block_name_kannada": "ದೇವದುರ್ಗ",
+        "block_name": "DEVADURGA"
+    },
+    {
+        "district_code": "1523",
+        "block_code": "1523002",
+        "block_name_kannada": "ಲಿಂಗುಸೂಗುರ",
+        "block_name": "LINGSUGUR"
+    },
+    {
+        "district_code": "1523",
+        "block_code": "1523003",
+        "block_name_kannada": "ಮಾನ್ವಿ",
+        "block_name": "MANVI"
+    },
+    {
+        "district_code": "1523",
+        "block_code": "1523004",
+        "block_name_kannada": "ರಾಯಚೂರು",
+        "block_name": "RAICHUR"
+    },
+    {
+        "district_code": "1523",
+        "block_code": "1523005",
+        "block_name_kannada": "ಸಿಂಧನೂರು",
+        "block_name": "SINDHNUR"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524001",
+        "block_name_kannada": "ಭದ್ರಾವತಿ",
+        "block_name": "BHADRAVATI"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524002",
+        "block_name_kannada": "ಹೊಸನಗರ",
+        "block_name": "HOSANAGARA"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524003",
+        "block_name_kannada": "ಸಾಗರ",
+        "block_name": "SAGAR"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524004",
+        "block_name_kannada": "ಶಿಕಾರಿಪುರ",
+        "block_name": "SHIKARIPUR"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524005",
+        "block_name_kannada": "ಶಿವಮೊಗ್ಗ",
+        "block_name": "SHIVAMOGGA"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524006",
+        "block_name_kannada": "ಸೊರಬ",
+        "block_name": "SORABA"
+    },
+    {
+        "district_code": "1524",
+        "block_code": "1524007",
+        "block_name_kannada": "ತೀರ್ಥಹಳ್ಳಿ",
+        "block_name": "TIRTHAHALLI"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525001",
+        "block_name_kannada": "ಚಿಕ್ಕನಾಯಕನಹಳ್ಳಿ",
+        "block_name": "CHIKNAYAKANHALLI"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525002",
+        "block_name_kannada": "ಗುಬ್ಬಿ",
+        "block_name": "GUBBI"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525003",
+        "block_name_kannada": "ಕೊರಟಗೆರೆ",
+        "block_name": "KORATAGERE"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525004",
+        "block_name_kannada": "ಕುಣಿಗಲ್",
+        "block_name": "KUNIGAL"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525005",
+        "block_name_kannada": "ಮದುಗಿರಿ",
+        "block_name": "MADHUGIRI"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525006",
+        "block_name_kannada": "ಪಾವಗಡ",
+        "block_name": "PAVAGADA"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525007",
+        "block_name_kannada": "ಸಿರಾ",
+        "block_name": "SIRA"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525008",
+        "block_name_kannada": "ತಿಪಟೂರು",
+        "block_name": "TIPTUR"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525009",
+        "block_name_kannada": "ತುಮಕೂರು",
+        "block_name": "TUMAKURU"
+    },
+    {
+        "district_code": "1525",
+        "block_code": "1525010",
+        "block_name_kannada": "ತುರುವೇಕೆರೆ",
+        "block_name": "TURUVEKERE"
+    },
+    {
+        "district_code": "1526",
+        "block_code": "1526001",
+        "block_name_kannada": "ಕಾರ್ಕಳ",
+        "block_name": "KARKAL"
+    },
+    {
+        "district_code": "1526",
+        "block_code": "1526002",
+        "block_name_kannada": "ಕುಂದಾಪುರ",
+        "block_name": "KUNDAPURA"
+    },
+    {
+        "district_code": "1526",
+        "block_code": "1526003",
+        "block_name_kannada": "ಉಡುಪಿ",
+        "block_name": "UDUPI"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527001",
+        "block_name_kannada": "ಅಂಕೋಲಾ",
+        "block_name": "ANKOLA"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527002",
+        "block_name_kannada": "ಭಟ್ಕಳ",
+        "block_name": "BHATKAL"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527003",
+        "block_name_kannada": "ಹಳಿಯಾಳ",
+        "block_name": "HALIYAL"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527004",
+        "block_name_kannada": "ಹೊನ್ನಾವರ",
+        "block_name": "HONNAVAR"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527005",
+        "block_name_kannada": "ಕಾರವಾರ",
+        "block_name": "KARWAR"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527006",
+        "block_name_kannada": "ಕುಮಟಾ",
+        "block_name": "KUMTA"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527007",
+        "block_name_kannada": "ಮುಂಡಗೋಡ",
+        "block_name": "MUNDGOD"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527008",
+        "block_name_kannada": "ಸಿದ್ಧಾಪುರ",
+        "block_name": "SIDDAPUR"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527009",
+        "block_name_kannada": "ಸಿರ್ಸಿ",
+        "block_name": "SIRSI"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527010",
+        "block_name_kannada": "ಜೊಯ್ಡಾ(ಸುಪಾ)",
+        "block_name": "SUPA"
+    },
+    {
+        "district_code": "1527",
+        "block_code": "1527011",
+        "block_name_kannada": "ಯಲ್ಲಾಪುರ",
+        "block_name": "YELLAPUR"
+    },
+    {
+        "district_code": "1528",
+        "block_code": "1528001",
+        "block_name_kannada": "ಬಾಗೇಪಲ್ಲಿ",
+        "block_name": "BAGEPALLI"
+    },
+    {
+        "district_code": "1528",
+        "block_code": "1528002",
+        "block_name_kannada": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+        "block_name": "CHIKBALLAPUR"
+    },
+    {
+        "district_code": "1528",
+        "block_code": "1528003",
+        "block_name_kannada": "ಚಿಂತಾಮಣಿ",
+        "block_name": "CHINTAMANI"
+    },
+    {
+        "district_code": "1528",
+        "block_code": "1528004",
+        "block_name_kannada": "ಗೌರಿಬಿದನೂರು",
+        "block_name": "GAURIBIDANUR"
+    },
+    {
+        "district_code": "1528",
+        "block_code": "1528005",
+        "block_name_kannada": "ಗುಡಿಬಂಡಾ",
+        "block_name": "GUDIBANDA"
+    },
+    {
+        "district_code": "1528",
+        "block_code": "1528006",
+        "block_name_kannada": "ಶಿಡ್ಲಘಟ್ಟ",
+        "block_name": "SIDLAGHATTA"
+    },
+    {
+        "district_code": "1529",
+        "block_code": "1529001",
+        "block_name_kannada": "ಚನ್ನಪಟ್ಟಣ",
+        "block_name": "CHANNAPATNA"
+    },
+    {
+        "district_code": "1529",
+        "block_code": "1529002",
+        "block_name_kannada": "ಕನಕಪೂರ",
+        "block_name": "KANAKAPURA"
+    },
+    {
+        "district_code": "1529",
+        "block_code": "1529003",
+        "block_name_kannada": "ಮಾಗಡಿ",
+        "block_name": "MAGADI"
+    },
+    {
+        "district_code": "1529",
+        "block_code": "1529004",
+        "block_name_kannada": "ರಾಮನಗರ",
+        "block_name": "RAMANAGARA"
+    },
+    {
+        "district_code": "1530",
+        "block_code": "1530008",
+        "block_name_kannada": "ಶಹಾಪುರ",
+        "block_name": "SHAHPUR"
+    },
+    {
+        "district_code": "1530",
+        "block_code": "1530009",
+        "block_name_kannada": "ಸುರಪುರ",
+        "block_name": "SURPUR"
+    },
+    {
+        "district_code": "1530",
+        "block_code": "1530010",
+        "block_name_kannada": "ಯಾದಗಿರಿ",
+        "block_name": "YADGIR"
+    }
+]
